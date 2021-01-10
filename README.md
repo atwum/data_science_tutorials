@@ -1,2 +1,4 @@
 # data_science_tutorials
- A repository for datasceice related tutorials (times series analysis, forecasting etc.)
+ A repository for datascience related tutorials in Python.(times series analysis, forecasting etc.)
+
+
